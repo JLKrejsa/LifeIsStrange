@@ -1,0 +1,33 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\ApplicationInsights.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\roslyn\csc.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\roslyn\System.Collections.Immutable.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\roslyn\vbc.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\roslyn\VBCSCompiler.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\roslyn\VBCSCompiler.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\Life is Strange.dll.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\Life is Strange.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\Life is Strange.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\Microsoft.AI.Web.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\Microsoft.AI.WindowsServer.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\Microsoft.ApplicationInsights.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\Microsoft.AI.Web.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\Microsoft.AI.WindowsServer.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\Microsoft.ApplicationInsights.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\obj\Debug\Life is Strange.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\obj\Debug\Life is Strange.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Life is Strange\Life is Strange\obj\Debug\Life is Strange.pdb
